@@ -1,0 +1,6 @@
+__pycache__/
+canc.py
+dataset_for_labeling.json
+labeled_dataset.json
+Output_prova/
+wandb/
